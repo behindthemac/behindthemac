@@ -2,6 +2,8 @@
 
 ### I'm Keisuke
 
+### I'm a graduate student at the University of Tokyo 🎓
+
 <!--
 **behindthemac/behindthemac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
